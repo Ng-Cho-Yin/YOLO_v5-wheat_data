@@ -18,6 +18,15 @@ tips:  (for yolov5)
                   |
                   --train
                   --validation
+                  
+      wheat.yaml:
+            train: /content/yolo/yolov5-master/wheat_data/images/train
+            
+            val: /content/yolo/yolov5-master/wheat_data/images/validation
+            
+            nc: 1
+            
+            names: ['wheat']
                  
 #key commands:
 
