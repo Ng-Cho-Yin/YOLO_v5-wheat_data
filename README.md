@@ -8,8 +8,6 @@ Data: https://www.kaggle.com/competitions/global-wheat-detection/data
 
 GPU: Tesla T4 16GB
 
-tips:  (for yolov5)
-
     --yolov5-master
       |
       --wheat_data
