@@ -8,13 +8,23 @@ GPU: Tesla T4 16GB
 
 tips:
   wheat_data
+  
       |
+      
       --labels
+      
           |
+          
           --train
+          
           --validation
+          
       --images
+      
           |
+          
           --train
+          
           --validation
+          
           
