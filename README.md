@@ -2,7 +2,9 @@
 
 Competition: Global Wheat Detection
 
-Link: https://www.kaggle.com/c/global-wheat-detection
+Kaggle link: https://www.kaggle.com/c/global-wheat-detection
+
+Data: https://www.kaggle.com/competitions/global-wheat-detection/data
 
 GPU: Tesla T4 16GB
 
