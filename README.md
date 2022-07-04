@@ -1,6 +1,7 @@
 # YOLO_v5 on Kaggle Competition
 
 ![348a992bb](https://user-images.githubusercontent.com/56172862/177117517-7152591b-763f-433d-907d-d98a13bd275e.jpeg)
+(20 epochs/models/yolov5s.yaml)
 
 Competition: Global Wheat Detection
 
