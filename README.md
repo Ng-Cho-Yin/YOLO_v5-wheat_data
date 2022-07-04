@@ -3,7 +3,7 @@
 ![348a992bb](https://user-images.githubusercontent.com/56172862/177117517-7152591b-763f-433d-907d-d98a13bd275e.jpeg)
 (20 epochs/models/yolov5s.yaml)
 
-![e32cbee0-cf43-4acb-adb0-bc54efddd981](https://user-images.githubusercontent.com/56172862/177136471-ded401e7-0193-4d18-9552-fd8abd99d95e.jpeg)
+![348a992bb](https://user-images.githubusercontent.com/56172862/177136681-8b0aeace-7dee-4a07-bc77-98c986c8ec75.jpeg)
 (20 epochs/models/yolov5s.yaml)with pretained model
 
 Competition: Global Wheat Detection
