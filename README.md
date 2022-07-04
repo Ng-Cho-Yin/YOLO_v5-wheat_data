@@ -8,6 +8,8 @@ GPU: Tesla T4 16GB
 
 tips:  (for yolov5)
 
+    --yolov5-master
+      |
       --wheat_data
             |
             --labels
